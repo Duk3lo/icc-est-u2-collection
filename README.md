@@ -16,4 +16,4 @@ En esta práctica se implementaron algoritmos de manipulación de datos utilizan
 ### Captura 1
 Inserta aquí la captura del código o de la ejecución.
 
-![Codigo](image.png)
+![Codigo](assets/image.png)
